@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: o;
+}
+
+.content-container{
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background-color: rgb(2, 2, 77);
+    color:azure;
+
+}
