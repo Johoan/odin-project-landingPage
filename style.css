@@ -93,3 +93,53 @@ header{
 
     border-radius: 10px;
   }
+
+  .expertise-sect h3{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 1.5em;
+  }
+
+  .expertise-container{
+    margin: 80px 70px;
+    display: flex;
+    gap: 90px;
+    
+  }
+
+  .expertise-divflex{
+  
+  }
+
+  .expertise-divflex div img{
+    border-radius: 10px;
+  }
+
+  .quote{
+    background-color: rgb(209, 213, 218);
+    padding: 150px 100px;
+  }
+
+  quote, quote+p{
+    font-size: 2em;
+  }
+
+  quote+p{
+    text-align: right;
+    font-weight: 900; 
+  }
+
+  .cta-section{
+    margin: 150px 90px;
+  }
+  .cta-container{
+    background-color: blue;
+    display: flex;
+    gap: 100px;
+    padding: 40px 20px;
+    align-items: center;
+
+  }
+
+  .cta-flex{
+  }
